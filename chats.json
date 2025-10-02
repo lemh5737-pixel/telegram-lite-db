@@ -18,5 +18,14 @@
     "from": "bot",
     "timestamp": "2025-10-02T07:16:24.289Z",
     "telegramMessageId": 11
+  },
+  {
+    "id": 3,
+    "chatId": 0,
+    "user": "System",
+    "username": "system",
+    "text": "/settoken 8436350481:AAFuDwBq3QSBD9MMh8qdmUKgzdFUkyU4EQY",
+    "from": "user",
+    "timestamp": "2025-10-02T07:17:20.462Z"
   }
 ]
