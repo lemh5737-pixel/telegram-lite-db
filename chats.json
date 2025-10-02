@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": 1,
+    "chatId": 7883659934,
+    "user": "Bot",
+    "username": "bot",
+    "text": "hay",
+    "from": "bot",
+    "timestamp": "2025-10-02T07:15:16.242Z",
+    "telegramMessageId": 10
+  }
+]
