@@ -64,5 +64,14 @@
     "text": "/settoken 8436350481:AAFuDwBq3QSBD9MMh8qdmUKgzdFUkyU4EQY",
     "from": "user",
     "timestamp": "2025-10-02T07:30:06.261Z"
+  },
+  {
+    "id": 8,
+    "chatId": 0,
+    "user": "System",
+    "username": "system",
+    "text": "/settoken 8436350481:AAFuDwBq3QSBD9MMh8qdmUKgzdFUkyU4EQY",
+    "from": "user",
+    "timestamp": "2025-10-02T07:31:48.607Z"
   }
 ]
