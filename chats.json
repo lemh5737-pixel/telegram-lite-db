@@ -82,5 +82,14 @@
     "text": "/settoken 8436350481:AAFuDwBq3QSBD9MMh8qdmUKgzdFUkyU4EQY",
     "from": "user",
     "timestamp": "2025-10-02T07:32:07.849Z"
+  },
+  {
+    "id": 10,
+    "chatId": 0,
+    "user": "System",
+    "username": "system",
+    "text": "/settoken bo5",
+    "from": "user",
+    "timestamp": "2025-10-03T04:51:49.925Z"
   }
 ]
